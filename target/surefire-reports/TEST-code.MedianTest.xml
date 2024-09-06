@@ -3,7 +3,7 @@
   <properties>
     <property name="java.specification.version" value="22"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/Users/saathvikchoudhary/Desktop/Shell_Foundation_Case_Study/target/test-classes:/Users/saathvikchoudhary/Desktop/Shell_Foundation_Case_Study/target/classes:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter/5.11.0/junit-jupiter-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.11.0/junit-jupiter-api-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/platform/junit-platform-commons/1.11.0/junit-platform-commons-1.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.11.0/junit-jupiter-params-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.11.0/junit-jupiter-engine-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/platform/junit-platform-engine/1.11.0/junit-platform-engine-1.11.0.jar:"/>
+    <property name="java.class.path" value="/Users/saathvikchoudhary/Desktop/CaseStudy/target/test-classes:/Users/saathvikchoudhary/Desktop/CaseStudy/target/classes:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter/5.11.0/junit-jupiter-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.11.0/junit-jupiter-api-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/platform/junit-platform-commons/1.11.0/junit-platform-commons-1.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.11.0/junit-jupiter-params-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.11.0/junit-jupiter-engine-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/platform/junit-platform-engine/1.11.0/junit-platform-engine-1.11.0.jar:"/>
     <property name="java.vm.vendor" value="Homebrew"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
@@ -12,10 +12,10 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/22.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/saathvikchoudhary/Desktop/Shell_Foundation_Case_Study/target/surefire/surefirebooter-20240906094239608_3.jar /Users/saathvikchoudhary/Desktop/Shell_Foundation_Case_Study/target/surefire 2024-09-06T09-42-35_907-jvmRun1 surefire-20240906094239608_1tmp surefire_0-20240906094239608_2tmp"/>
+    <property name="sun.java.command" value="/Users/saathvikchoudhary/Desktop/CaseStudy/target/surefire/surefirebooter-20240906102350677_3.jar /Users/saathvikchoudhary/Desktop/CaseStudy/target/surefire 2024-09-06T10-23-50_583-jvmRun1 surefire-20240906102350677_1tmp surefire_0-20240906102350677_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/Users/saathvikchoudhary/Desktop/Shell_Foundation_Case_Study/target/test-classes:/Users/saathvikchoudhary/Desktop/Shell_Foundation_Case_Study/target/classes:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter/5.11.0/junit-jupiter-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.11.0/junit-jupiter-api-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/platform/junit-platform-commons/1.11.0/junit-platform-commons-1.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.11.0/junit-jupiter-params-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.11.0/junit-jupiter-engine-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/platform/junit-platform-engine/1.11.0/junit-platform-engine-1.11.0.jar:"/>
+    <property name="surefire.test.class.path" value="/Users/saathvikchoudhary/Desktop/CaseStudy/target/test-classes:/Users/saathvikchoudhary/Desktop/CaseStudy/target/classes:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter/5.11.0/junit-jupiter-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.11.0/junit-jupiter-api-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/platform/junit-platform-commons/1.11.0/junit-platform-commons-1.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.11.0/junit-jupiter-params-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.11.0/junit-jupiter-engine-5.11.0.jar:/Users/saathvikchoudhary/.m2/repository/org/junit/platform/junit-platform-engine/1.11.0/junit-platform-engine-1.11.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/Users/saathvikchoudhary"/>
     <property name="user.language" value="en"/>
@@ -23,13 +23,13 @@
     <property name="java.version.date" value="2024-07-16"/>
     <property name="java.home" value="/opt/homebrew/Cellar/openjdk/22.0.2/libexec/openjdk.jdk/Contents/Home"/>
     <property name="file.separator" value="/"/>
-    <property name="basedir" value="/Users/saathvikchoudhary/Desktop/Shell_Foundation_Case_Study"/>
+    <property name="basedir" value="/Users/saathvikchoudhary/Desktop/CaseStudy"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/saathvikchoudhary/Desktop/Shell_Foundation_Case_Study/target/surefire/surefirebooter-20240906094239608_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/saathvikchoudhary/Desktop/CaseStudy/target/surefire/surefirebooter-20240906102350677_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="22.0.2"/>
@@ -45,7 +45,7 @@
     <property name="java.vendor.url.bug" value="https://github.com/Homebrew/homebrew-core/issues"/>
     <property name="java.io.tmpdir" value="/var/folders/hv/_y3b0kbs16x85bv89srr1ttr0000gn/T/"/>
     <property name="java.version" value="22.0.2"/>
-    <property name="user.dir" value="/Users/saathvikchoudhary/Desktop/Shell_Foundation_Case_Study"/>
+    <property name="user.dir" value="/Users/saathvikchoudhary/Desktop/CaseStudy"/>
     <property name="os.arch" value="aarch64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="native.encoding" value="UTF-8"/>
@@ -58,8 +58,8 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="66.0"/>
   </properties>
-  <testcase name="test1" classname="code.MedianTest" time="0.002"/>
+  <testcase name="test1" classname="code.MedianTest" time="0.001"/>
   <testcase name="test2" classname="code.MedianTest" time="0.001"/>
   <testcase name="test3" classname="code.MedianTest" time="0.001"/>
-  <testcase name="test4" classname="code.MedianTest" time="0.001"/>
+  <testcase name="test4" classname="code.MedianTest" time="0.0"/>
 </testsuite>
